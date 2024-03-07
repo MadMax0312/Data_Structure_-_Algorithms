@@ -1,4 +1,4 @@
-const strs = ['flower','low', 'ig']
+const strs = ['flower','flow', 'fig']
 
 function prefix(strs) {
     
